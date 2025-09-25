@@ -11,7 +11,7 @@
 ✉️ Email : **lucie.tripier@etu.unistra.fr**
 
 
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudo&layout=compact&theme=radical)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=cookie2211&layout=compact&theme=radical)
 
 <!--
 **cookie2211/cookie2211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
