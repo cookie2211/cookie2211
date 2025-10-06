@@ -6,7 +6,7 @@
 
 ## Mes projets personnels (hors BUT)
 - un calendrier de l'avent auquel j'ai grandement contribué, disponible sur le web et composé de 24 jeux en Python. J'ai commencé il y a 2 ans et je l'ai repris récemment pour l'améliorer et le finir.
-  Disponible sur le site **https://calendrierdelavent.eu.pythonanywhere.com/**
+  Disponible sur [ce site](https://calendrierdelavent.eu.pythonanywhere.com/)
 
 ## Me contacter
 ✉️ Email : **lucie.tripier@etu.unistra.fr**
