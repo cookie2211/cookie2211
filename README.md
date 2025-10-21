@@ -1,7 +1,7 @@
 # Bonjour, je suis Lucie
 
 ## A propos de moi
-- je suis actuellement en 2e année de BUT informatique à l'IUT Robert Schuman, En filière réalisation d'applications : conception, développement, validation.
+- je suis actuellement en 2e année de BUT informatique à l'IUT Robert Schuman, Université de Strasbourg, en filière réalisation d'applications : conception, développement, validation.
 - j'adore développer des jeux, des applications, et la programmation système.
 
 ## Mes projets personnels (hors BUT)
