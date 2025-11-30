@@ -9,7 +9,7 @@
   Disponible sur [ce site](https://calendrierdelavent.eu.pythonanywhere.com/)
   
 ## 📊 Langages les plus utilisés
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=cookie2211&layout=compact&theme=tokyonight)
+![Langages les plus utilisés](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cookie2211&layout=compact&theme=tokyonight)
 
 ## Me contacter
 ✉️ Email : **lucie.tripier@etu.unistra.fr**
